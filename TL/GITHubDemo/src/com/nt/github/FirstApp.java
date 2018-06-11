@@ -2,7 +2,7 @@ package com.nt.github;
 
 public class FirstApp {
 
-	public static void main(String[] args) {
+	public static void main (String[] args) {
 		System.out.println("Hello");
 
 		System.out.println("Hello bhai");
@@ -12,8 +12,16 @@ public class FirstApp {
 		System.out.println("nareshitt.....");
 System.out.println("hii...guys....");
 System.out.println("i am bhai");
+
 System.out.println("hello bro ");
 System.out.println("final");
+
+System.out.println("hello bro ");
+
+System.out.println("Narah");
+
+
+
 
 	}
 
